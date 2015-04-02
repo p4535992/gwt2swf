@@ -2,8 +2,7 @@
 
 	<!-- 
 	GWT2SWF.gwt.xml is for distribution use
-	 -->            
+	 -->
 	<inherits name='com.google.gwt.user.User'/>
-  <script src="swfobject-2.0.js"></script>
-  
+
 </module>
